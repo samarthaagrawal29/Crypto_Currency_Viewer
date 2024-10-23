@@ -21,6 +21,7 @@
 - Node.js (version 12.x or higher)
 - npm (Node Package Manager) or yarn
 - Need a API key from CoinGecko - https://www.coingecko.com/en/developers/dashboard
+- Make sure to enter path of env file in beSamarthCrypto.js in line no - 5
 
 ### Steps
 
