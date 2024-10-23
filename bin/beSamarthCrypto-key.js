@@ -4,7 +4,7 @@ const {key} = require("../commands");
 
 program
     .command("set")
-    .description("Used to Manage API Key - https://nomics.com")
+    .description("Used to Manage API Key - https://www.coingecko.com/")
     .action(key.set)
 
 program

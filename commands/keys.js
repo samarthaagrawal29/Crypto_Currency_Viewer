@@ -8,7 +8,7 @@ const key = {
         try {
             const res = await input({
                 name: "key",
-                message: "Enter API Key ".green + "https://nomics.com",
+                message: "Enter API Key ".green + "https://www.coingecko.com/",
                 validate: isRequired,
             });
             const key = keyManager.setKey(res);

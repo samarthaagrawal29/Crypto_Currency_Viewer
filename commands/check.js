@@ -12,7 +12,7 @@ const check = {
             if (priceOutputData) {
                 console.log(priceOutputData);
             } else {
-                console.log("NO Data Found - https://nomics.com".red);
+                console.log("NO Data Found - https://www.coingecko.com/".red);
             }
         } catch (err) {
             console.error("Somthing Went Wrong, Try After Sometime!!".red);
