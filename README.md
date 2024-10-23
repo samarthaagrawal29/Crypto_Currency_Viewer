@@ -7,9 +7,9 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
+- [Command related to key setup in Application](#keySetup)
+- [Command to use Application](#useApplication)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -78,14 +78,14 @@ crypto
 
 ---
 
-## Cammond related to key setup Application
+## Command related to key setup in Application
 - This is a command line interface application which is used to veiw crypto currency rate
 - **crypto key -h**: This command will show the help option
 - **crypto key set**: This command is used to setup the key in the application which is given by CoinGecko.
 - **crypto key show**: This command is used to check the existing key present in the application for the API.
 - **crypto key remove**: This command is used to remove the existing API key in the application.
 
-## Coomand to use Application
+## Command to use Application
 - This is a command line interface application which is used to veiw crypto currency rate
 - **crypto check -h**: This command will show the help option.
 - **crypto check price**: This command is used to show the prices of all coins with the name and rank in crypto market.
